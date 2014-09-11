@@ -6,3 +6,7 @@ def bye():
 
 def isaiah():
     print('Swag points for ya')
+
+
+def personA():
+	print ('Hello I am person A')
