@@ -2,23 +2,17 @@
 2. Add file
 3. Ask git to take a snapshot
 
-
-First person:
-    1. Edit file
-    2. git status
-    3. git add .
-    4. git status
-    5. git commit -m "message"
-    6. git push
+1. Edit file
+2. git status
+3. git add .
+4. git status
+5. git commit -m "message"
+6. git push
 
 After that's done, other person:
-    git pull
-    Check to see that the change is still there
 
-Both people:
-    - make a change to test.py
-    => lesson: github only takes the first push to prevent overlap!
-    
+git pull
+
 
 git log (to find the ID)
 git revert THE_ID (to revert)
@@ -32,3 +26,4 @@ git log (to show the history)
 git status
 git diff (shows changes)
 
+Aldo makes a change.
