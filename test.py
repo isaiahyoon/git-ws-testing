@@ -3,3 +3,6 @@ def hello():
 
 def bye():
     print('Bye.')
+
+def isaiah():
+    print('Swag points for ya')
